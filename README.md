@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://img.shields.io/github/forks/skartechrakesh/OVS-Project?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/v/release/skartechrakesh/OVS-Project?include_prereleases&display_name=release?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/stars/skartechrakesh/OVS-Project?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/license/skartechrakesh/OVS-Project?style=for-the-badge) &emsp; &emsp;
 
